@@ -1,6 +1,6 @@
 ## P01_BankCustomerChurn_Module
 
-I used a dataset from Kaggle.com to predict whether a customer will "exit" the bank, a classification task complicated by a highly imbalanced target variable. To address this, I applied SMOTE (Synthetic Minority Oversampling Technique) to balance the data, ensuring the model could effectively learn from both classes.
+I used a dataset from Kaggle.com to predict whether a customer will exit the bank(customer churn), a classification task complicated by a highly imbalanced target variable. To address this, I applied SMOTE (Synthetic Minority Oversampling Technique) to balance the data, ensuring the model could effectively learn from both classes.
 
 This type of analysis has broad applications in the financial industry, such as predicting credit card fraud, identifying loan default risks, assessing customer retention in mortgage portfolios, and optimizing credit card marketing strategies.
 
